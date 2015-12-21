@@ -6,7 +6,7 @@ This Plugin can compile your SCSS and SASS files within Sublime Text. There is n
 
 
 ### For Linux & Mac Users
-Install Node.js and node-sass package ><br><br>
+Install Node.js and node-sass package<br><br>
 
 `npm install node-sass -g`<br><br>
 
