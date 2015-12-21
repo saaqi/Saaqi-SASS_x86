@@ -1,4 +1,4 @@
-# SASS Build [32-BIT] for Sublime Text
+# SASS Build x86 for Sublime Text
 
 ## What's this thingie?
 This Plugin can compile your SCSS and SASS files within Sublime Text. There is no need to install Ruby, Node.js or SASS for this plugin to work.

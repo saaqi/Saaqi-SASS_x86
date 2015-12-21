@@ -1,0 +1,21 @@
+{	
+	"working_dir": "${file_path}/../",
+	"cmd": [
+		"${packages}/Saaqi SASS [32-Bit]/Node.js/node-sass",
+		"--output-style", "compressed",
+		"${file_path}\\style.${file_extension}",
+		"style.min.css"
+	],
+
+	"windows": {
+	"working_dir": "${file_path}\\..\\",
+		"cmd": [
+			"${packages}\\Saaqi SASS [32-Bit]\\Node.js\\node-sass.cmd",
+			"--output-style", "compressed",
+			"${file_path}\\style.${file_extension}",
+			"style.min.css"
+		]
+	},
+
+	"selector": "source.sass, source.scss"
+}
