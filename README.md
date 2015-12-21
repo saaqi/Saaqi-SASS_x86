@@ -7,7 +7,7 @@ This Plugin can compile your SCSS and SASS files within Sublime Text. There is n
 
 ### For Linux & Mac Users
 Install Node.js and node-sass package
-'npm install node-sass -g'
+`npm install node-sass -g`
 
 
 ## Guide!
@@ -17,7 +17,7 @@ Install [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) plugi
 
 Place your SASS folder into your desired output directory.
 
-### 'styles/sass/style.sass' output 'styles/style.min.css'
+### `styles/sass/style.sass` output `styles/style.min.css`
 Name your main SASS file style.scss or style.sass for it to work properly.
 
 
