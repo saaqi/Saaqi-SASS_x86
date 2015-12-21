@@ -6,9 +6,8 @@ This Plugin can compile your SCSS and SASS files within Sublime Text. There is n
 
 
 ### For Linux & Mac Users
-Install Node.js and node-sass package
+Install Node.js and node-sass package > <br><br>
 `npm install node-sass -g`
-
 
 ## Guide!
 Install [Sass for TextMate/Sublime Text 2 & 3](https://github.com/nathos/sass-textmate-bundle) to get syntax highlighting and tab/code completion for SASS & SCSS files.
