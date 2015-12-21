@@ -1,9 +1,9 @@
 {	
 	"working_dir": "${file_path}/../",
 	"cmd": [
-		"${packages}/Saaqi-SASS_x86/Node.js/node-sass",
+		"node-sass",
 		"--output-style", "compressed",
-		"${file_path}\\style.${file_extension}",
+		"${file_path}/style.${file_extension}",
 		"style.min.css"
 	],
 
